@@ -18,7 +18,7 @@ Assets Used:
 * Added a look-around task feature & Boxing, allowing players to interact with the environment as Tiki and Apso explore.
 * This feature encourages players to engage with the surroundings and uncover the source of the mysterious noises.
 
-
+![Image](https://github.com/Tikii0617/Tiki-and-Apso/blob/main/pics/1.png)
 
 
 
